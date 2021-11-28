@@ -1326,8 +1326,17 @@
       "side": 1,
       "sideid1": "rbxassetid://7536889320"
     },
-    {
+        {
       "number": 46,
+      "route": "T",
+      "front": 1,
+      "frontid1": "rbxassetid://7536888412",
+      "controllerid1": "rbxassetid://7536888412",
+      "side": 1,
+      "sideid1": "rbxassetid://7536888412"
+    },
+    {
+      "number": 47,
       "route": "VERSION",
       "front": 1,
       "frontid1": "rbxassetid://7613249140",
