@@ -615,8 +615,8 @@
       "halfpriceY1": "0.0"
     },
     {
-      "number": 1
-      "route": "523
+      "number": 1,
+      "route": "523",
       "destZ": "卡迪夫西",
       "destY": "落山碼頭",
       "maxPZ": "2",
@@ -631,7 +631,7 @@
       "halfpriceY2": "2.1"
     },
     {
-      "number": 2
+      "number": 2,
       "route": "274M",
       "destZ": "甘怡站",
       "destY": "沙善邨",
@@ -647,7 +647,7 @@
       "halfpriceY2": "2.1"
     },
     {
-      "number": 3
+      "number": 3,
       "route": "275A",
       "destZ": "甘泉工業區",
       "destY": "豬怕(西)",
@@ -663,7 +663,7 @@
       "halfpriceY2": "2.1"
     },
     {
-      "number": 4
+      "number": 4,
       "route": "275X",
       "destZ": "甘泉市中心",
       "destY": "大新碼頭",
@@ -679,7 +679,7 @@
       "halfpriceY2": "2.1"
     },
     {
-      "number": 5
+      "number": 5,
       "route": "N247",
       "destZ": "甘泉市中心",
       "destY": "大新中心",
@@ -695,7 +695,7 @@
       "halfpriceY2": "2.7"
     },
     {
-      "number": 6
+      "number": 6,
       "route": "109",
       "destZ": "水時圍和特苑",
       "destY": "綠水村",
@@ -1172,8 +1172,8 @@
       "sideid1": "rbxassetid://7926616601"
     },
         {
-      "number": 44
-      "route": "XMAS
+      "number": 44,
+      "route": "XMAS",
       "front": 1,
       "frontid1": "rbxassetid://8250511407",
       "controllerid1": "rbxassetid://8250512625",
@@ -1181,7 +1181,7 @@
       "sideid1": "rbxassetid://8250512625"
     },
     {
-      "number": 45
+      "number": 45,
       "route": "VERSION",
       "front": 1,
       "frontid1": "rbxassetid://8021853694",
