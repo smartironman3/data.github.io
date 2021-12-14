@@ -1,19 +1,469 @@
 {
   "fleetdata": [
     {
-      "busname": "GeoBusB8L12000",
+      "busname": "V6U",
       "number": 1,
-      "carplate": "XA 175",
-      "fleetnum": "V6L1",
+      "carplate": "XA 5675",
+      "fleetnum": "V6U21",
       "depot": "G",
       "leftad": "rbxassetid://6134113291",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
     },
     {
-      "busname": "GeoBusB8L12000",
+      "busname": "V6U",
       "number": 2,
-      "carplate": "XA 1812",
+      "carplate": "XA 4829",
+      "fleetnum": "V6U22",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 3,
+      "carplate": "XA 5789",
+      "fleetnum": "V6U23",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 4,
+      "carplate": "XA 5477",
+      "fleetnum": "V6U24",
+      "depot": "G",
+      "leftad": "rbxassetid://7016816879",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 5,
+      "carplate": "XA 7470",
+      "fleetnum": "V6U25",
+      "depot": "G",
+      "leftad": "rbxassetid://6938517627",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 6,
+      "carplate": "XA 7872",
+      "fleetnum": "V6U26",
+      "depot": "G",
+      "leftad": "rbxassetid://7016816879",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 7,
+      "carplate": "XA 8262",
+      "fleetnum": "V6U27",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 8,
+      "carplate": "XA 8290",
+      "fleetnum": "V6U28",
+      "depot": "G",
+      "leftad": "rbxassetid://6938517627",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 9,
+      "carplate": "XA 7341",
+      "fleetnum": "V6U29",
+      "depot": "G",
+      "leftad": "rbxassetid://7016816879",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 10,
+      "carplate": "XA 789",
+      "fleetnum": "V6U30",
+      "depot": "G",
+      "leftad": "rbxassetid://8005029103",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 11,
+      "carplate": "XA 5478",
+      "fleetnum": "V6U31",
+      "depot": "G",
+      "leftad": "rbxassetid://8005029103",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 12,
+      "carplate": "XA 3703",
+      "fleetnum": "V6U32",
+      "depot": "G",
+      "leftad": "rbxassetid://8005029103",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 13,
+      "carplate": "XA 587",
+      "fleetnum": "V6U33",
+      "depot": "G",
+      "leftad": "rbxassetid://8005029103",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 14,
+      "carplate": "XA 8436",
+      "fleetnum": "V6U34",
+      "depot": "G",
+      "leftad": "rbxassetid://8005029103",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 15,
+      "carplate": "XA 255",
+      "fleetnum": "V6U35",
+      "depot": "G",
+      "leftad": "rbxassetid://8005029103",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 16,
+      "carplate": "XA 8545",
+      "fleetnum": "V6U36",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 17,
+      "carplate": "XA 8477",
+      "fleetnum": "V6U37",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 18,
+      "carplate": "XA 4723",
+      "fleetnum": "V6U38",
+      "depot": "G",
+      "leftad": "rbxassetid://6938517627",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 19,
+      "carplate": "XA 8481",
+      "fleetnum": "V6U39",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://7058951525",
+      "backad": "rbxassetid://7016805780"
+    },
+    {
+      "busname": "V6U",
+      "number": 20,
+      "carplate": "XA 586",
+      "fleetnum": "V6U40",
+      "depot": "G",
+      "leftad": "rbxassetid://7054846787",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 21,
+      "carplate": "XA 867",
+      "fleetnum": "V6U41",
+      "depot": "G",
+      "leftad": "rbxassetid://7054846787",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 22,
+      "carplate": "XA 2599",
+      "fleetnum": "V6U42",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://7058951525",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 23,
+      "carplate": "XA 6230",
+      "fleetnum": "V6U43",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 24,
+      "carplate": "XA 259",
+      "fleetnum": "V6U44",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 25,
+      "carplate": "XA 261",
+      "fleetnum": "V6U45",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 26,
+      "carplate": "XA 3454",
+      "fleetnum": "V6U46",
+      "depot": "G",
+      "leftad": "rbxassetid://6938517627",
+      "rightad": "rbxassetid://7058951525",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 27,
+      "carplate": "XB 4894",
+      "fleetnum": "V6U47",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 28,
+      "carplate": "XB 969",
+      "fleetnum": "V6U48",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 29,
+      "carplate": "XB 6279",
+      "fleetnum": "V6U49",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://7160766325"
+    },
+    {
+      "busname": "V6U",
+      "number": 30,
+      "carplate": "XB 4776",
+      "fleetnum": "V6U50",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://7160766325"
+    },
+    {
+      "busname": "E6X Aids",
+      "number": 1,
+      "carplate": "XE 2956",
+      "fleetnum": "E6LW1",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "E6X Aids",
+      "number": 2,
+      "carplate": "XK 9051",
+      "fleetnum": "E6LW2",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "E6X Aids",
+      "number": 3,
+      "carplate": "XK 9493",
+      "fleetnum": "E6LW3",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "E6X Aids",
+      "number": 4,
+      "carplate": "XL 344",
+      "fleetnum": "E6LW4",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "E6X Aids",
+      "number": 5,
+      "carplate": "XL 1865",
+      "fleetnum": "E6LW5",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "E6X Aids",
+      "number": 6,
+      "carplate": "XL 2356",
+      "fleetnum": "E6LW6",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "E6X Aids",
+      "number": 7,
+      "carplate": "XL 2412",
+      "fleetnum": "E6LW7",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "E6X Aids",
+      "number": 8,
+      "carplate": "XL 2921",
+      "fleetnum": "E6LW8",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "E6X Aids",
+      "number": 9,
+      "carplate": "XL 2989",
+      "fleetnum": "E6LW9",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "E6X Aids",
+      "number": 10,
+      "carplate": "XL 3105",
+      "fleetnum": "E6LW10",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "E6X Aids",
+      "number": 11,
+      "carplate": "XL 3303",
+      "fleetnum": "E6LW11",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "E6X Aids",
+      "number": 12,
+      "carplate": "XL 3595",
+      "fleetnum": "E6LW12",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "E6X Aids",
+      "number": 13,
+      "carplate": "XL 3729",
+      "fleetnum": "E6LW13",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "E6X Aids",
+      "number": 14,
+      "carplate": "XL 3748",
+      "fleetnum": "E6LW14",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "E6X Aids",
+      "number": 15,
+      "carplate": "XL 5025",
+      "fleetnum": "E6LW15",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6X Aids",
+      "number": 1,
+      "carplate": "XP 5015",
+      "fleetnum": "V6L1",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6X Aids",
+      "number": 2,
+      "carplate": "XP 5683",
       "fleetnum": "V6L2",
       "depot": "G",
       "leftad": "rbxassetid://",
@@ -21,9 +471,9 @@
       "backad": "rbxassetid://"
     },
     {
-      "busname": "GeoBusB8L12000",
+      "busname": "V6X Aids",
       "number": 3,
-      "carplate": "XA 2099",
+      "carplate": "XP 5698",
       "fleetnum": "V6L3",
       "depot": "G",
       "leftad": "rbxassetid://",
@@ -31,39 +481,39 @@
       "backad": "rbxassetid://"
     },
     {
-      "busname": "GeoBusB8L12000",
+      "busname": "V6X Aids",
       "number": 4,
-      "carplate": "XA 5627",
+      "carplate": "XP 5703",
       "fleetnum": "V6L4",
       "depot": "G",
-      "leftad": "rbxassetid://7016816879",
+      "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
     },
     {
-      "busname": "GeoBusB8L12000",
+      "busname": "V6X Aids",
       "number": 5,
-      "carplate": "XA 7700",
+      "carplate": "XP 6103",
       "fleetnum": "V6L5",
       "depot": "G",
-      "leftad": "rbxassetid://6938517627",
+      "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
     },
     {
-      "busname": "GeoBusB8L12000",
+      "busname": "V6X Aids",
       "number": 6,
-      "carplate": "XA 787",
+      "carplate": "XP 6305",
       "fleetnum": "V6L6",
       "depot": "G",
-      "leftad": "rbxassetid://7016816879",
+      "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
     },
     {
-      "busname": "GeoBusB8L12000",
+      "busname": "V6X Aids",
       "number": 7,
-      "carplate": "XA 8322",
+      "carplate": "XP 6593",
       "fleetnum": "V6L7",
       "depot": "G",
       "leftad": "rbxassetid://",
@@ -71,940 +521,80 @@
       "backad": "rbxassetid://"
     },
     {
-      "busname": "GeoBusB8L12000",
-      "number": 8,
-      "carplate": "XA 8736",
-      "fleetnum": "V6L8",
-      "depot": "G",
-      "leftad": "rbxassetid://6938517627",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 9,
-      "carplate": "XA 8903",
-      "fleetnum": "V6L9",
-      "depot": "G",
-      "leftad": "rbxassetid://7016816879",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 10,
-      "carplate": "XA 9788",
-      "fleetnum": "V6L10",
-      "depot": "G",
-      "leftad": "rbxassetid://8005029103",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 11,
-      "carplate": "XA 8372",
-      "fleetnum": "V6L11",
-      "depot": "G",
-      "leftad": "rbxassetid://8005029103",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 12,
-      "carplate": "XA 8354",
-      "fleetnum": "V6L12",
-      "depot": "G",
-      "leftad": "rbxassetid://8005029103",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 13,
-      "carplate": "XA 8368",
-      "fleetnum": "V6L13",
-      "depot": "G",
-      "leftad": "rbxassetid://8005029103",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 14,
-      "carplate": "XA 8382",
-      "fleetnum": "V6L14",
-      "depot": "G",
-      "leftad": "rbxassetid://8005029103",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 15,
-      "carplate": "XA 8395",
-      "fleetnum": "V6L15",
-      "depot": "G",
-      "leftad": "rbxassetid://8005029103",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 16,
-      "carplate": "XA 8405",
-      "fleetnum": "V6L16",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 17,
-      "carplate": "XA 8417",
-      "fleetnum": "V6L17",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 18,
-      "carplate": "XA 8423",
-      "fleetnum": "V6L18",
-      "depot": "G",
-      "leftad": "rbxassetid://6938517627",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 19,
-      "carplate": "XA 8431",
-      "fleetnum": "V6L19",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://7058951525",
-      "backad": "rbxassetid://7016805780"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 20,
-      "carplate": "XA 8446",
-      "fleetnum": "V6L20",
-      "depot": "G",
-      "leftad": "rbxassetid://7054846787",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 21,
-      "carplate": "XA 8447",
-      "fleetnum": "V6L21",
-      "depot": "G",
-      "leftad": "rbxassetid://7054846787",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 22,
-      "carplate": "XA 8469",
-      "fleetnum": "V6L22",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://7058951525",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 23,
-      "carplate": "XA 8450",
-      "fleetnum": "V6L23",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 24,
-      "carplate": "XA 8479",
-      "fleetnum": "V6L24",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 25,
-      "carplate": "XA 8481",
-      "fleetnum": "V6L25",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 26,
-      "carplate": "XA 8964",
-      "fleetnum": "V6L26",
-      "depot": "G",
-      "leftad": "rbxassetid://6938517627",
-      "rightad": "rbxassetid://7058951525",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 27,
-      "carplate": "XB 954",
-      "fleetnum": "V6L27",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 28,
-      "carplate": "XB 969",
-      "fleetnum": "V6L28",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 29,
-      "carplate": "XB 1059",
-      "fleetnum": "V6L29",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://7160766325"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 30,
-      "carplate": "XB 1176",
-      "fleetnum": "V6L30",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://7160766325"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 31,
-      "carplate": "XB 1337",
-      "fleetnum": "V6L31",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://7160766325"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 32,
-      "carplate": "XB 1984",
-      "fleetnum": "V6L32",
-      "depot": "G",
-      "leftad": "rbxassetid://7054846787",
-      "rightad": "rbxassetid:/7058951525",
-      "backad": "rbxassetid://7160766325"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 33,
-      "carplate": "XB 1967",
-      "fleetnum": "V6L33",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 34,
-      "carplate": "XB 2075",
-      "fleetnum": "V6L34",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 35,
-      "carplate": "XB 2123",
-      "fleetnum": "V6L35",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 36,
-      "carplate": "XB 2394",
-      "fleetnum": "V6L36",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 37,
-      "carplate": "XB 2351",
-      "fleetnum": "V6L37",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 38,
-      "carplate": "XB 2587",
-      "fleetnum": "V6L38",
-      "depot": "G",
-      "leftad": "rbxassetid:/6938517627/",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 39,
-      "carplate": "XB 2694",
-      "fleetnum": "V6L39",
-      "depot": "G",
-      "leftad": "rbxassetid://7054846787",
-      "rightad": "rbxassetid://7058951525",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 40,
-      "carplate": "XB 2713",
-      "fleetnum": "V6L40",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 41,
-      "carplate": "XB 2830",
-      "fleetnum": "V6L41",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 42,
-      "carplate": "XB 2844",
-      "fleetnum": "V6L42",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 43,
-      "carplate": "XB 2862",
-      "fleetnum": "V6L43",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 44,
-      "carplate": "XB 2887",
-      "fleetnum": "V6L44",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://7016805780"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 45,
-      "carplate": "XB 2904",
-      "fleetnum": "V6L45",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 46,
-      "carplate": "XB 2990",
-      "fleetnum": "V6L46",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://7016805780"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 47,
-      "carplate": "XB 3103",
-      "fleetnum": "V6L47",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 48,
-      "carplate": "XB 3888",
-      "fleetnum": "V6L48",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 49,
-      "carplate": "XB 3311",
-      "fleetnum": "V6L49",
-      "depot": "G",
-      "leftad": "rbxassetid://7054846787",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 50,
-      "carplate": "XB 3722",
-      "fleetnum": "V6L50",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 51,
-      "carplate": "XJ 8900",
-      "fleetnum": "V6L51",
-      "depot": "G",
-      "leftad": "rbxassetid://6938517627",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 52,
-      "carplate": "XJ 8964",
-      "fleetnum": "V6L52",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 53,
-      "carplate": "XJ 9734",
-      "fleetnum": "V6L53",
-      "depot": "G",
-      "leftad": "rbxassetid://7016816879",
-      "rightad": "rbxassetid://7054985825",
-      "backad": "rbxassetid://7016805780"
-    },
-    {
-      "busname": "GeoBusB8L12000admin",
-      "number": 54,
-      "carplate": "XK 451",
-      "fleetnum": "V6L54",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 55,
-      "carplate": "XK 651",
-      "fleetnum": "V6L55",
-      "depot": "G",
-      "leftad": "rbxassetid://7054846787",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 56,
-      "carplate": "XK 2356",
-      "fleetnum": "V6L56",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 57,
-      "carplate": "XK 5427",
-      "fleetnum": "V6L57",
-      "depot": "G",
-      "leftad": "rbxassetid://8005029103",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 58,
-      "carplate": "XK 6754",
-      "fleetnum": "V6L58",
-      "depot": "G",
-      "leftad": "rbxassetid://8005029103",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 59,
-      "carplate": "XK 7291",
-      "fleetnum": "V6L59",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 60,
-      "carplate": "XK 8462",
-      "fleetnum": "V6L60",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 61,
-      "carplate": "XK 8591",
-      "fleetnum": "V6L61",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 62,
-      "carplate": "XL 682",
-      "fleetnum": "V6L62",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 63,
-      "carplate": "XL 1734",
-      "fleetnum": "V6L63",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 64,
-      "carplate": "XL 1823",
-      "fleetnum": "V6L64",
-      "depot": "G",
-      "leftad": "rbxassetid://8005029103",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 65,
-      "carplate": "XL 2047",
-      "fleetnum": "V6L65",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 66,
-      "carplate": "XL 2084",
-      "fleetnum": "V6L66",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 67,
-      "carplate": "XL 2136",
-      "fleetnum": "V6L67",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 68,
-      "carplate": "XL 4466",
-      "fleetnum": "V6L68",
-      "depot": "G",
-      "leftad": "rbxassetid://8005029103",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 69,
-      "carplate": "XL 7560",
-      "fleetnum": "V6L69",
-      "depot": "G",
-      "leftad": "rbxassetid://8005029103",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusB8L12000",
-      "number": 70,
-      "carplate": "XL 9487",
-      "fleetnum": "V6L70",
-      "depot": "G",
-      "leftad": "rbxassetid://8005029103",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusA9512000admin",
-      "number": 1,
-      "carplate": "XE 2956",
-      "fleetnum": "M6L1",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusA9512000",
-      "number": 2,
-      "carplate": "XK 9051",
-      "fleetnum": "M6L2",
-      "depot": "G",
-      "leftad": "rbxassetid://7179607848",
-      "rightad": "rbxassetid://7179605221",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusA9512000",
-      "number": 3,
-      "carplate": "XK 9493",
-      "fleetnum": "M6L3",
-      "depot": "G",
-      "leftad": "rbxassetid://7179607848",
-      "rightad": "rbxassetid://7179605221",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusA9512000",
-      "number": 4,
-      "carplate": "XL 344",
-      "fleetnum": "M6L4",
-      "depot": "G",
-      "leftad": "rbxassetid://7179607848",
-      "rightad": "rbxassetid://7179605221",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusA9512000",
-      "number": 5,
-      "carplate": "XL 1865",
-      "fleetnum": "M6L5",
-      "depot": "G",
-      "leftad": "rbxassetid://7179607848",
-      "rightad": "rbxassetid://7179605221",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusA9512000",
-      "number": 6,
-      "carplate": "XL 2356",
-      "fleetnum": "M6L6",
-      "depot": "G",
-      "leftad": "rbxassetid://7179607848",
-      "rightad": "rbxassetid://7179605221",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusA9512000",
-      "number": 7,
-      "carplate": "XL 2412",
-      "fleetnum": "M6L7",
-      "depot": "G",
-      "leftad": "rbxassetid://7179607848",
-      "rightad": "rbxassetid://7179605221",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusA9512000",
-      "number": 8,
-      "carplate": "XL 2921",
-      "fleetnum": "M6L8",
-      "depot": "G",
-      "leftad": "rbxassetid://7179607848",
-      "rightad": "rbxassetid://7179605221",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusA9512000",
-      "number": 9,
-      "carplate": "XL 2989",
-      "fleetnum": "M6L9",
-      "depot": "G",
-      "leftad": "rbxassetid://7179607848",
-      "rightad": "rbxassetid://7179605221",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusA9512000",
-      "number": 10,
-      "carplate": "XL 3105",
-      "fleetnum": "M6L10",
-      "depot": "G",
-      "leftad": "rbxassetid://7179607848",
-      "rightad": "rbxassetid://7179605221",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusA9512000",
-      "number": 11,
-      "carplate": "XL 3303",
-      "fleetnum": "M6L11",
-      "depot": "G",
-      "leftad": "rbxassetid://7179607848",
-      "rightad": "rbxassetid://7179605221",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusA9512000",
-      "number": 12,
-      "carplate": "XL 3595",
-      "fleetnum": "M6L12",
-      "depot": "G",
-      "leftad": "rbxassetid://7179607848",
-      "rightad": "rbxassetid://7179605221",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusA9512000",
-      "number": 13,
-      "carplate": "XL 3729",
-      "fleetnum": "M6L13",
-      "depot": "G",
-      "leftad": "rbxassetid://7179607848",
-      "rightad": "rbxassetid://7179605221",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusA9512000",
-      "number": 14,
-      "carplate": "XL 3748",
-      "fleetnum": "M6L14",
-      "depot": "G",
-      "leftad": "rbxassetid://7179607848",
-      "rightad": "rbxassetid://7179605221",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusA9512000",
-      "number": 15,
-      "carplate": "XL 5025",
-      "fleetnum": "M6L15",
-      "depot": "G",
-      "leftad": "rbxassetid://7179607848",
-      "rightad": "rbxassetid://7179605221",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusStreetdeck10650",
-      "number": 1,
-      "carplate": "XP 5015",
-      "fleetnum": "W6S1",
-      "depot": "G",
-      "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusStreetdeck10650",
-      "number": 2,
-      "carplate": "XP 5683",
-      "fleetnum": "W6S2",
-      "depot": "G",
-      "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusStreetdeck10650",
-      "number": 3,
-      "carplate": "XP 5698",
-      "fleetnum": "W6S3",
-      "depot": "G",
-      "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusStreetdeck10650",
-      "number": 4,
-      "carplate": "XP 5703",
-      "fleetnum": "W6S4",
-      "depot": "G",
-      "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusStreetdeck10650",
-      "number": 5,
-      "carplate": "XP 6103",
-      "fleetnum": "W6S5",
-      "depot": "G",
-      "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusStreetdeck10650",
-      "number": 6,
-      "carplate": "XP 6305",
-      "fleetnum": "W6S6",
-      "depot": "G",
-      "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusStreetdeck10650",
-      "number": 7,
-      "carplate": "XP 6593",
-      "fleetnum": "W6S7",
-      "depot": "G",
-      "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusStreetdeck10650",
+      "busname": "V6X Aids",
       "number": 8,
       "carplate": "XP 6777",
-      "fleetnum": "W6S8",
+      "fleetnum": "V6L8",
       "depot": "G",
-      "leftad": "rbxassetid://8141719689",
+      "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
     },
     {
-      "busname": "GeoBusStreetdeck10650",
+      "busname": "V6X Aids",
       "number": 9,
       "carplate": "XP 6721",
-      "fleetnum": "W6S9",
+      "fleetnum": "V6L9",
       "depot": "G",
-      "leftad": "rbxassetid://8141719689",
+      "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
     },
     {
-      "busname": "GeoBusStreetdeck10650",
+      "busname": "V6X Aids",
       "number": 10,
       "carplate": "XP 8992",
-      "fleetnum": "W6S10",
+      "fleetnum": "V6L10",
       "depot": "G",
-      "leftad": "rbxassetid://8141719689",
+      "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
     },
     {
-      "busname": "GeoBusStreetdeck10650",
+      "busname": "V6X Aids",
       "number": 11,
       "carplate": "XP 8993",
-      "fleetnum": "W6S11",
+      "fleetnum": "V6L11",
       "depot": "G",
-      "leftad": "rbxassetid://8141719689",
+      "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
     },
     {
-      "busname": "GeoBusStreetdeck10650",
+      "busname": "V6X Aids",
       "number": 12,
       "carplate": "XP 9053",
-      "fleetnum": "W6S12",
+      "fleetnum": "V6L12",
       "depot": "G",
-      "leftad": "rbxassetid://8141719689",
+      "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
     },
     {
-      "busname": "GeoBusStreetdeck10650",
+      "busname": "V6X Aids",
       "number": 13,
       "carplate": "XR 291",
-      "fleetnum": "W6S13",
+      "fleetnum": "V6L13",
       "depot": "G",
-      "leftad": "rbxassetid://8141719689",
+      "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
     },
     {
-      "busname": "GeoBusStreetdeck10650",
+      "busname": "V6X Aids",
       "number": 14,
       "carplate": "XR 783",
-      "fleetnum": "W6S14",
+      "fleetnum": "V6L14",
       "depot": "G",
-      "leftad": "rbxassetid://8141719689",
+      "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
     },
     {
-      "busname": "GeoBusStreetdeck10650",
+      "busname": "V6X Aids",
       "number": 15,
       "carplate": "XR 1101",
-      "fleetnum": "W6S15",
-      "depot": "G",
-      "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusStreetdeck10650Hydroliner",
-      "number": 1,
-      "carplate": "XR 3303",
-      "fleetnum": "WES1",
+      "fleetnum": "V6L15",
       "depot": "G",
       "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
@@ -1014,7 +604,7 @@
   "Groutedata": [
     {
       "number": 0,
-      "route": "GEO",
+      "route": "TTT",
       "destZ": "暫停服務",
       "destY": "暫停服務",
       "maxPZ": "1",
@@ -1025,194 +615,10 @@
       "halfpriceY1": "0.0"
     },
     {
-      "number": 1,
-      "route": "23",
-      "destZ": "豬怕邨",
-      "destY": "大新碼頭",
-      "maxPZ": "1",
-      "priceZ1": "4.1",
-      "halfpriceZ1": "2.1",
-      "maxPY": "1",
-      "priceY1": "4.1",
-      "halfpriceY1": "2.1"
-    },
-    {
-      "number": 2,
-      "route": "24",
-      "destZ": "沙善邨",
-      "destY": "大新中心",
-      "maxPZ": "1",
-      "priceZ1": "4.1",
-      "halfpriceZ1": "2.1",
-      "maxPY": "1",
-      "priceY1": "4.1",
-      "halfpriceY1": "2.1"
-    },
-    {
-      "number": 3,
-      "route": "73",
-      "destZ": "甘泉市中心",
-      "destY": "海興村",
-      "maxPZ": "4",
-      "priceZ1": "11.0",
-      "halfpriceZ1": "5.5",
-      "priceZ2": "8.9",
-      "halfpriceZ2": "4.5",
-      "priceZ3": "6.8",
-      "halfpriceZ3": "3.4",
-      "priceZ4": "4.3",
-      "halfpriceZ4": "2.2",
-      "maxPY": "4",
-      "priceY1": "11.0",
-      "halfpriceY1": "5.5",
-      "priceY2": "8.9",
-      "halfpriceY2": "4.5",
-      "priceY3": "6.8",
-      "halfpriceY3": "3.4",
-      "priceY4": "5.8",
-      "halfpriceY4": "2.9"
-    },
-    {
-      "number": 4,
-      "route": "23M",
-      "destZ": "豬怕邨",
-      "destY": "馬奶邨",
-      "maxPZ": "1",
-      "priceZ1": "4.1",
-      "halfpriceZ1": "2.1",
-      "maxPY": "1",
-      "priceY1": "4.1",
-      "halfpriceY1": "2.1"
-    },
-    {
-      "number": 5,
-      "route": "24D",
-      "destZ": "沙善邨",
-      "destY": "豬怕學校村",
-      "maxPZ": "1",
-      "priceZ1": "3.8",
-      "halfpriceZ1": "1.9",
-      "maxPY": "1",
-      "priceY1": "3.8",
-      "halfpriceY1": "1.9"
-    },
-    {
-      "number": 6,
-      "route": "24H",
-      "destZ": "沙善邨",
-      "destY": "豬怕市中心",
-      "maxPZ": "1",
-      "priceZ1": "4.1",
-      "halfpriceZ1": "2.1",
-      "maxPY": "1",
-      "priceY1": "4.1",
-      "halfpriceY1": "2.1"
-    },
-    {
-      "number": 7,
-      "route": "41A",
-      "destZ": "甘怡站",
-      "destY": "甘泉市中心",
-      "maxPZ": "1",
-      "priceZ1": "4.6",
-      "halfpriceZ1": "2.3",
-      "maxPY": "1",
-      "priceY1": "4.6",
-      "halfpriceY1": "2.3"
-    },
-    {
-      "number": 8,
-      "route": "41M",
-      "destZ": "甘怡站",
-      "destY": "松蔭邨",
-      "maxPZ": "1",
-      "priceZ1": "4.6",
-      "halfpriceZ1": "2.3",
-      "maxPY": "1",
-      "priceY1": "4.6",
-      "halfpriceY1": "2.3"
-    },
-    {
-      "number": 9,
-      "route": "41X",
-      "destZ": "甘泉市中心",
-      "destY": "松蔭邨",
-      "maxPZ": "1",
-      "priceZ1": "5.2",
-      "halfpriceZ1": "2.6",
-      "maxPY": "1",
-      "priceY1": "5.2",
-      "halfpriceY1": "2.6"
-    },
-    {
-      "number": 10,
-      "route": "42M",
-      "destZ": "甘怡站",
-      "destY": "基達(南)",
-      "maxPZ": "1",
-      "priceZ1": "5.8",
-      "halfpriceZ1": "2.9",
-      "maxPY": "1",
-      "priceY1": "5.8",
-      "halfpriceY1": "2.9"
-    },
-    {
-      "number": 11,
-      "route": "73A",
-      "destZ": "大新碼頭",
-      "destY": "海信圍村",
-      "maxPZ": "2",
-      "priceZ1": "7.5",
-      "halfpriceZ1": "3.8",
-      "priceZ2": "5.8",
-      "halfpriceZ2": "2.9",
-      "maxPY": "2",
-      "priceY1": "7.5",
-      "halfpriceY1": "3.8",
-      "priceY2": "5.8",
-      "halfpriceY2": "2.9"
-    },
-    {
-      "number": 12,
-      "route": "73R",
-      "destZ": "甘泉市中心",
-      "destY": "七葉鎮",
-      "maxPZ": "1",
-      "priceZ1": "12.6",
-      "halfpriceZ1": "6.3",
-      "maxPY": "1",
-      "priceY1": "12.6",
-      "halfpriceY1": "6.3"
-    },
-    {
-      "number": 13,
-      "route": "N23",
-      "destZ": "豬怕邨",
-      "destY": "沙善邨",
-      "maxPZ": "1",
-      "priceZ1": "5.4",
-      "halfpriceZ1": "2.7",
-      "maxPY": "1",
-      "priceY1": "5.4",
-      "halfpriceY1": "2.7"
-    },
-    {
-      "number": 14,
-      "route": "273P",
-      "destZ": "甘泉工業區",
-      "destY": "豬怕(南)",
-      "maxPZ": "1",
-      "priceZ1": "7.8",
-      "halfpriceZ1": "3.9",
-      "maxPY": "1",
-      "priceY1": "7.8",
-      "halfpriceY1": "3.9"
-    },
-    {
-      "number": 15,
-      "route": "273X",
-      "destZ": "甘泉市中心",
-      "destY": "豬怕邨",
+      "number": 1
+      "route": "523
+      "destZ": "卡迪夫西",
+      "destY": "落山碼頭",
       "maxPZ": "2",
       "priceZ1": "8.9",
       "halfpriceZ1": "4.5",
@@ -1225,7 +631,7 @@
       "halfpriceY2": "2.1"
     },
     {
-      "number": 16,
+      "number": 2
       "route": "274M",
       "destZ": "甘怡站",
       "destY": "沙善邨",
@@ -1241,7 +647,7 @@
       "halfpriceY2": "2.1"
     },
     {
-      "number": 17,
+      "number": 3
       "route": "275A",
       "destZ": "甘泉工業區",
       "destY": "豬怕(西)",
@@ -1257,7 +663,7 @@
       "halfpriceY2": "2.1"
     },
     {
-      "number": 18,
+      "number": 4
       "route": "275X",
       "destZ": "甘泉市中心",
       "destY": "大新碼頭",
@@ -1273,7 +679,7 @@
       "halfpriceY2": "2.1"
     },
     {
-      "number": 19,
+      "number": 5
       "route": "N247",
       "destZ": "甘泉市中心",
       "destY": "大新中心",
@@ -1289,7 +695,7 @@
       "halfpriceY2": "2.7"
     },
     {
-      "number": 20,
+      "number": 6
       "route": "109",
       "destZ": "水時圍和特苑",
       "destY": "綠水村",
@@ -1765,8 +1171,17 @@
       "side": 1,
       "sideid1": "rbxassetid://7926616601"
     },
+        {
+      "number": 44
+      "route": "XMAS
+      "front": 1,
+      "frontid1": "rbxassetid://8250511407",
+      "controllerid1": "rbxassetid://8250512625",
+      "side": 1,
+      "sideid1": "rbxassetid://8250512625"
+    },
     {
-      "number": 44,
+      "number": 45
       "route": "VERSION",
       "front": 1,
       "frontid1": "rbxassetid://8021853694",
