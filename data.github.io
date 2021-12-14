@@ -1014,7 +1014,7 @@
   "Groutedata": [
     {
       "number": 0,
-      "route": "TTT",
+      "route": "GEO",
       "destZ": "暫停服務",
       "destY": "暫停服務",
       "maxPZ": "1",
