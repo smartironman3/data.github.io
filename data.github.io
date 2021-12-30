@@ -599,6 +599,16 @@
       "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
+    },
+    {
+      "busname": "A95 Open Top",
+      "number": 1,
+      "carplate": "VM 5535",
+      "fleetnum": "M6MO1",
+      "depot": "M",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
     }
   ],
   "Groutedata": [
@@ -705,7 +715,21 @@
       "maxPY": "1",
       "priceY1": "18.0",
       "halfpriceY1": "9.0"
+    },
+
+    {
+      "number": 7,
+      "route": "HIRE ",
+      "destZ": "TTT Deport",
+      "destY": "TTT Deport",
+      "maxPZ": "1",
+      "priceZ1": "0.0",
+      "halfpriceZ1": "0.0",
+      "maxPY": "1",
+      "priceY1": "0.0",
+      "halfpriceY1": "0.0"
     }
+
   ],
   "Gpaidata": [
     {
