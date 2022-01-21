@@ -626,19 +626,15 @@
     },
     {
       "number": 1,
-      "route": "523",
-      "destZ": "卡迪夫西",
-      "destY": "落山碼頭",
-      "maxPZ": "2",
-      "priceZ1": "8.9",
-      "halfpriceZ1": "4.5",
-      "priceZ2": "4.6",
-      "halfpriceZ2": "2.3",
-      "maxPY": "2",
-      "priceY1": "8.9",
-      "halfpriceY1": "4.5",
-      "priceY2": "4.1",
-      "halfpriceY2": "2.1"
+      "route": "271",
+      "destZ": "綠葉醫院",
+      "destY": "奧環苑",
+      "maxPZ": "1",
+      "priceZ1": "6.4",
+      "halfpriceZ1": "3.2",
+      "maxPY": "1",
+      "priceY1": "6.4",
+      "halfpriceY1": "3.2"
     },
     {
       "number": 2,
