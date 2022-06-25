@@ -1,1 +1,614 @@
-
+{
+  "fleetdata": [
+    {
+      "busname": "V6U",
+      "number": 1,
+      "carplate": "XA 5675",
+      "fleetnum": "V6U21",
+      "depot": "G",
+      "leftad": "rbxassetid://6134113291",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 2,
+      "carplate": "XA 4829",
+      "fleetnum": "V6U22",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 3,
+      "carplate": "XA 5789",
+      "fleetnum": "V6U23",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 4,
+      "carplate": "XA 5477",
+      "fleetnum": "V6U24",
+      "depot": "G",
+      "leftad": "rbxassetid://7016816879",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 5,
+      "carplate": "XA 7470",
+      "fleetnum": "V6U25",
+      "depot": "G",
+      "leftad": "rbxassetid://6938517627",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 6,
+      "carplate": "XA 7872",
+      "fleetnum": "V6U26",
+      "depot": "G",
+      "leftad": "rbxassetid://7016816879",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 7,
+      "carplate": "XA 8262",
+      "fleetnum": "V6U27",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 8,
+      "carplate": "XA 8290",
+      "fleetnum": "V6U28",
+      "depot": "G",
+      "leftad": "rbxassetid://6938517627",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 9,
+      "carplate": "XA 7341",
+      "fleetnum": "V6U29",
+      "depot": "G",
+      "leftad": "rbxassetid://7016816879",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 10,
+      "carplate": "XA 789",
+      "fleetnum": "V6U30",
+      "depot": "G",
+      "leftad": "rbxassetid://8005029103",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 11,
+      "carplate": "XA 5478",
+      "fleetnum": "V6U31",
+      "depot": "G",
+      "leftad": "rbxassetid://8005029103",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 12,
+      "carplate": "XA 3703",
+      "fleetnum": "V6U32",
+      "depot": "G",
+      "leftad": "rbxassetid://8005029103",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 13,
+      "carplate": "XA 587",
+      "fleetnum": "V6U33",
+      "depot": "G",
+      "leftad": "rbxassetid://8005029103",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 14,
+      "carplate": "XA 8436",
+      "fleetnum": "V6U34",
+      "depot": "G",
+      "leftad": "rbxassetid://8005029103",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 15,
+      "carplate": "XA 255",
+      "fleetnum": "V6U35",
+      "depot": "G",
+      "leftad": "rbxassetid://8005029103",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 16,
+      "carplate": "XA 8545",
+      "fleetnum": "V6U36",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 17,
+      "carplate": "XA 8477",
+      "fleetnum": "V6U37",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 18,
+      "carplate": "XA 4723",
+      "fleetnum": "V6U38",
+      "depot": "G",
+      "leftad": "rbxassetid://6938517627",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 19,
+      "carplate": "XA 8481",
+      "fleetnum": "V6U39",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://7058951525",
+      "backad": "rbxassetid://7016805780"
+    },
+    {
+      "busname": "V6U",
+      "number": 20,
+      "carplate": "XA 586",
+      "fleetnum": "V6U40",
+      "depot": "G",
+      "leftad": "rbxassetid://7054846787",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 21,
+      "carplate": "XA 867",
+      "fleetnum": "V6U41",
+      "depot": "G",
+      "leftad": "rbxassetid://7054846787",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 22,
+      "carplate": "XA 2599",
+      "fleetnum": "V6U42",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://7058951525",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 23,
+      "carplate": "XA 6230",
+      "fleetnum": "V6U43",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 24,
+      "carplate": "XA 259",
+      "fleetnum": "V6U44",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 25,
+      "carplate": "XA 261",
+      "fleetnum": "V6U45",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 26,
+      "carplate": "XA 3454",
+      "fleetnum": "V6U46",
+      "depot": "G",
+      "leftad": "rbxassetid://6938517627",
+      "rightad": "rbxassetid://7058951525",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 27,
+      "carplate": "XB 4894",
+      "fleetnum": "V6U47",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 28,
+      "carplate": "XB 969",
+      "fleetnum": "V6U48",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6U",
+      "number": 29,
+      "carplate": "XB 6279",
+      "fleetnum": "V6U49",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://7160766325"
+    },
+    {
+      "busname": "V6U",
+      "number": 30,
+      "carplate": "XB 4776",
+      "fleetnum": "V6U50",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://7160766325"
+    },
+    {
+      "busname": "E6X Aids",
+      "number": 1,
+      "carplate": "XE 2956",
+      "fleetnum": "E6LW1",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "E6X Aids",
+      "number": 2,
+      "carplate": "XK 9051",
+      "fleetnum": "E6LW2",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "E6X Aids",
+      "number": 3,
+      "carplate": "XK 9493",
+      "fleetnum": "E6LW3",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "E6X Aids",
+      "number": 4,
+      "carplate": "XL 344",
+      "fleetnum": "E6LW4",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "E6X Aids",
+      "number": 5,
+      "carplate": "XL 1865",
+      "fleetnum": "E6LW5",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "E6X Aids",
+      "number": 6,
+      "carplate": "XL 2356",
+      "fleetnum": "E6LW6",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "E6X Aids",
+      "number": 7,
+      "carplate": "XL 2412",
+      "fleetnum": "E6LW7",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "E6X Aids",
+      "number": 8,
+      "carplate": "XL 2921",
+      "fleetnum": "E6LW8",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "E6X Aids",
+      "number": 9,
+      "carplate": "XL 2989",
+      "fleetnum": "E6LW9",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "E6X Aids",
+      "number": 10,
+      "carplate": "XL 3105",
+      "fleetnum": "E6LW10",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "E6X Aids",
+      "number": 11,
+      "carplate": "XL 3303",
+      "fleetnum": "E6LW11",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "E6X Aids",
+      "number": 12,
+      "carplate": "XL 3595",
+      "fleetnum": "E6LW12",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "E6X Aids",
+      "number": 13,
+      "carplate": "XL 3729",
+      "fleetnum": "E6LW13",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "E6X Aids",
+      "number": 14,
+      "carplate": "XL 3748",
+      "fleetnum": "E6LW14",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "E6X Aids",
+      "number": 15,
+      "carplate": "XL 5025",
+      "fleetnum": "E6LW15",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6X Aids",
+      "number": 1,
+      "carplate": "XP 5015",
+      "fleetnum": "V6L1",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6X Aids",
+      "number": 2,
+      "carplate": "XP 5683",
+      "fleetnum": "V6L2",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6X Aids",
+      "number": 3,
+      "carplate": "XP 5698",
+      "fleetnum": "V6L3",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6X Aids",
+      "number": 4,
+      "carplate": "XP 5703",
+      "fleetnum": "V6L4",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6X Aids",
+      "number": 5,
+      "carplate": "XP 6103",
+      "fleetnum": "V6L5",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6X Aids",
+      "number": 6,
+      "carplate": "XP 6305",
+      "fleetnum": "V6L6",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6X Aids",
+      "number": 7,
+      "carplate": "XP 6593",
+      "fleetnum": "V6L7",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6X Aids",
+      "number": 8,
+      "carplate": "XP 6777",
+      "fleetnum": "V6L8",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6X Aids",
+      "number": 9,
+      "carplate": "XP 6721",
+      "fleetnum": "V6L9",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6X Aids",
+      "number": 10,
+      "carplate": "XP 8992",
+      "fleetnum": "V6L10",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6X Aids",
+      "number": 11,
+      "carplate": "XP 8993",
+      "fleetnum": "V6L11",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6X Aids",
+      "number": 12,
+      "carplate": "XP 9053",
+      "fleetnum": "V6L12",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6X Aids",
+      "number": 13,
+      "carplate": "XR 291",
+      "fleetnum": "V6L13",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6X Aids",
+      "number": 14,
+      "carplate": "XR 783",
+      "fleetnum": "V6L14",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "V6X Aids",
+      "number": 15,
+      "carplate": "XR 1101",
+      "fleetnum": "V6L15",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "A95 Open Top",
+      "number": 1,
+      "carplate": "VM 5535",
+      "fleetnum": "M6MO1",
+      "depot": "M",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    }
+  ]
+  }
