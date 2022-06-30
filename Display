@@ -1,5 +1,5 @@
-
-  "Gpaidata": [
+{
+"Gpaidata": [
     {
       "number": 0,
       "route": "GB",
@@ -108,7 +108,7 @@
       "controllerid2": "rbxassetid://10019058512",
       "side": 2,
       "sideid1": "rbxassetid://10019057526",
-      "sideid2": "rbxassetid://10019058512",
+      "sideid2": "rbxassetid://10019058512"
     },
     {
       "number": 10,
@@ -132,7 +132,7 @@
       "controllerid2": "rbxassetid://10019062801",
       "side": 2,
       "sideid1": "rbxassetid://10019061203",
-      "sideid2": "rbxassetid://10019062801",
+      "sideid2": "rbxassetid://10019062801"
     },
     {
       "number": 12,
