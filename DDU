@@ -63,6 +63,30 @@
       "maxPY": "1",
       "priceY1": "6.8",
       "halfpriceY1": "3.4"
+    },
+        {
+      "number": 5,
+      "route": "22T",
+      "destZ": "恆馳碼頭",
+      "destY": "恆馳火車站",
+      "maxPZ": "1",
+      "priceZ1": "3.8",
+      "halfpriceZ1": "1.9",
+      "maxPY": "2",
+      "priceY1": "3.8",
+      "halfpriceY1": "1.9",
+    },
+        {
+      "number": 6,
+      "route": "26A",
+      "destZ": "氡漕灣",
+      "destY": "恆馳碼頭",
+      "maxPZ": "1",
+      "priceZ1": "6.8",
+      "halfpriceZ1": "3.4",
+      "maxPY": "1",
+      "priceY1": "6.8",
+      "halfpriceY1": "3.4",
     }
   ]
   }
