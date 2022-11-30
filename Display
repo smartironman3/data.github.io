@@ -102,15 +102,11 @@
   {
     "number": 11,
     "route": "NIS",
-    "front": 2,
-    "frontid1": "rbxassetid://9208085222",
-    "frontid2": "rbxassetid://9207986961",
+    "front": 1,
+    "frontid1": "rbxassetid://11685565866",
     "controllerid1": "rbxassetid://9327662335",
-    "controllerid2": "rbxassetid://9327647210",
-    "side": 3,
-    "sideid1": "rbxassetid://9208085222",
-    "sideid2": "rbxassetid://9208086981",
-    "sideid3": "rbxassetid://9207986961"
+    "side": 1,
+    "sideid1": "rbxassetid://11685565866"
   },
   {
     "number": -100,
@@ -226,5 +222,47 @@
     "controllerid1": "rbxassetid://9327668391",
     "side": 1,
     "sideid1": "rbxassetid://11562502210"
-  }
+  },
+    {
+    "number": 22,
+    "route": "48EZ",
+    "front": 1,
+    "frontid1": "rbxassetid://11685566734",
+    "controllerid1": "rbxassetid://11685566734",
+    "side": 2,
+    "sideid1": "rbxassetid://11685566734"
+  },
+      {
+    "number": 22,
+    "route": "48EY",
+    "front": 1,
+    "frontid1": "rbxassetid://11685566998",
+    "controllerid1": "rbxassetid://11685566998",
+    "side": 1,
+    "sideid1": "rbxassetid://11685566998"
+  },
+    {
+    "number": 23,
+    "route": "48Z",
+    "front": 2,
+    "frontid1": "rbxassetid://11685566260",
+    "frontid2": "rbxassetid://11685566067",
+    "controllerid1": "rbxassetid://11685566260",
+    "controllerid2": "rbxassetid://11685566067",
+    "side": 2,
+    "sideid1": "rbxassetid://11685566260",
+    "sideid2": "rbxassetid://11685566067"
+  },
+      {
+    "number": 23,
+    "route": "48Y",
+    "front": 1,
+    "frontid1": "rbxassetid://11685566542",
+    "frontid2": "rbxassetid://11685566067",
+    "controllerid1": "rbxassetid://11685566542",
+    "controllerid2": "rbxassetid://11685566067",
+    "side": 2,
+    "sideid1": "rbxassetid://11685566542",
+    "sideid2": "rbxassetid://11685566067"
+  },
 ]
