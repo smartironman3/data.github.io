@@ -114,5 +114,27 @@
     "halfpriceY1": "4.5",
     "priceY2": "6.5",
     "halfpriceY2": "3.3"
-  }
+  },
+  {
+    "number": 6,
+    "route": "N25",
+    "attribute": "normal",
+    "pigYZ": "",
+    "destZ": "恆馳碼頭",
+    "engdestZ": "Hang Chi Ferry Piers",
+    "routeingZ": "正常路線", 
+    "destY": "菁松山邨",
+    "engdestY": "Tsing Chong Hill Estate",
+    "routeingY": "正常路線", 
+    "maxPZ": "2",
+    "priceZ1": "9.0",
+    "halfpriceZ1": "4.5",
+    "priceZ2": "5.0",
+    "halfpriceZ2": "2.5",
+    "maxPY": "2",
+    "priceY1": "9.0",
+    "halfpriceY1": "4.5",
+    "priceY2": "6.5",
+    "halfpriceY2": "3.3"
+  },
 ]
