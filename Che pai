@@ -1,614 +1,2344 @@
 {
-  "fleetdata": [
-    {
-      "busname": "V6U",
-      "number": 1,
-      "carplate": "XA 5675",
-      "fleetnum": "V6U21",
-      "depot": "G",
-      "leftad": "rbxassetid://6134113291",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6U",
-      "number": 2,
-      "carplate": "XA 4829",
-      "fleetnum": "V6U22",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6U",
-      "number": 3,
-      "carplate": "XA 5789",
-      "fleetnum": "V6U23",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6U",
-      "number": 4,
-      "carplate": "XA 5477",
-      "fleetnum": "V6U24",
-      "depot": "G",
-      "leftad": "rbxassetid://7016816879",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6U",
-      "number": 5,
-      "carplate": "XA 7470",
-      "fleetnum": "V6U25",
-      "depot": "G",
-      "leftad": "rbxassetid://6938517627",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6U",
-      "number": 6,
-      "carplate": "XA 7872",
-      "fleetnum": "V6U26",
-      "depot": "G",
-      "leftad": "rbxassetid://7016816879",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6U",
-      "number": 7,
-      "carplate": "XA 8262",
-      "fleetnum": "V6U27",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6U",
-      "number": 8,
-      "carplate": "XA 8290",
-      "fleetnum": "V6U28",
-      "depot": "G",
-      "leftad": "rbxassetid://6938517627",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6U",
-      "number": 9,
-      "carplate": "XA 7341",
-      "fleetnum": "V6U29",
-      "depot": "G",
-      "leftad": "rbxassetid://7016816879",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6U",
-      "number": 10,
-      "carplate": "XA 789",
-      "fleetnum": "V6U30",
-      "depot": "G",
-      "leftad": "rbxassetid://8005029103",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6U",
-      "number": 11,
-      "carplate": "XA 5478",
-      "fleetnum": "V6U31",
-      "depot": "G",
-      "leftad": "rbxassetid://8005029103",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6U",
-      "number": 12,
-      "carplate": "XA 3703",
-      "fleetnum": "V6U32",
-      "depot": "G",
-      "leftad": "rbxassetid://8005029103",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6U",
-      "number": 13,
-      "carplate": "XA 587",
-      "fleetnum": "V6U33",
-      "depot": "G",
-      "leftad": "rbxassetid://8005029103",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6U",
-      "number": 14,
-      "carplate": "XA 8436",
-      "fleetnum": "V6U34",
-      "depot": "G",
-      "leftad": "rbxassetid://8005029103",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6U",
-      "number": 15,
-      "carplate": "XA 255",
-      "fleetnum": "V6U35",
-      "depot": "G",
-      "leftad": "rbxassetid://8005029103",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6U",
-      "number": 16,
-      "carplate": "XA 8545",
-      "fleetnum": "V6U36",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6U",
-      "number": 17,
-      "carplate": "XA 8477",
-      "fleetnum": "V6U37",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6U",
-      "number": 18,
-      "carplate": "XA 4723",
-      "fleetnum": "V6U38",
-      "depot": "G",
-      "leftad": "rbxassetid://6938517627",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6U",
-      "number": 19,
-      "carplate": "XA 8481",
-      "fleetnum": "V6U39",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://7058951525",
-      "backad": "rbxassetid://7016805780"
-    },
-    {
-      "busname": "V6U",
-      "number": 20,
-      "carplate": "XA 586",
-      "fleetnum": "V6U40",
-      "depot": "G",
-      "leftad": "rbxassetid://7054846787",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6U",
-      "number": 21,
-      "carplate": "XA 867",
-      "fleetnum": "V6U41",
-      "depot": "G",
-      "leftad": "rbxassetid://7054846787",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6U",
-      "number": 22,
-      "carplate": "XA 2599",
-      "fleetnum": "V6U42",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://7058951525",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6U",
-      "number": 23,
-      "carplate": "XA 6230",
-      "fleetnum": "V6U43",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6U",
-      "number": 24,
-      "carplate": "XA 259",
-      "fleetnum": "V6U44",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6U",
-      "number": 25,
-      "carplate": "XA 261",
-      "fleetnum": "V6U45",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6U",
-      "number": 26,
-      "carplate": "XA 3454",
-      "fleetnum": "V6U46",
-      "depot": "G",
-      "leftad": "rbxassetid://6938517627",
-      "rightad": "rbxassetid://7058951525",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6U",
-      "number": 27,
-      "carplate": "XB 4894",
-      "fleetnum": "V6U47",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6U",
-      "number": 28,
-      "carplate": "XB 969",
-      "fleetnum": "V6U48",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6U",
-      "number": 29,
-      "carplate": "XB 6279",
-      "fleetnum": "V6U49",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://7160766325"
-    },
-    {
-      "busname": "V6U",
-      "number": 30,
-      "carplate": "XB 4776",
-      "fleetnum": "V6U50",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://7160766325"
-    },
-    {
-      "busname": "E6X Aids",
-      "number": 1,
-      "carplate": "XE 2956",
-      "fleetnum": "E6LW1",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "E6X Aids",
-      "number": 2,
-      "carplate": "XK 9051",
-      "fleetnum": "E6LW2",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "E6X Aids",
-      "number": 3,
-      "carplate": "XK 9493",
-      "fleetnum": "E6LW3",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "E6X Aids",
-      "number": 4,
-      "carplate": "XL 344",
-      "fleetnum": "E6LW4",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "E6X Aids",
-      "number": 5,
-      "carplate": "XL 1865",
-      "fleetnum": "E6LW5",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "E6X Aids",
-      "number": 6,
-      "carplate": "XL 2356",
-      "fleetnum": "E6LW6",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "E6X Aids",
-      "number": 7,
-      "carplate": "XL 2412",
-      "fleetnum": "E6LW7",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "E6X Aids",
-      "number": 8,
-      "carplate": "XL 2921",
-      "fleetnum": "E6LW8",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "E6X Aids",
-      "number": 9,
-      "carplate": "XL 2989",
-      "fleetnum": "E6LW9",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "E6X Aids",
-      "number": 10,
-      "carplate": "XL 3105",
-      "fleetnum": "E6LW10",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "E6X Aids",
-      "number": 11,
-      "carplate": "XL 3303",
-      "fleetnum": "E6LW11",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "E6X Aids",
-      "number": 12,
-      "carplate": "XL 3595",
-      "fleetnum": "E6LW12",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "E6X Aids",
-      "number": 13,
-      "carplate": "XL 3729",
-      "fleetnum": "E6LW13",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "E6X Aids",
-      "number": 14,
-      "carplate": "XL 3748",
-      "fleetnum": "E6LW14",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "E6X Aids",
-      "number": 15,
-      "carplate": "XL 5025",
-      "fleetnum": "E6LW15",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6X Aids",
-      "number": 1,
-      "carplate": "XP 5015",
-      "fleetnum": "V6L1",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6X Aids",
-      "number": 2,
-      "carplate": "XP 5683",
-      "fleetnum": "V6L2",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6X Aids",
-      "number": 3,
-      "carplate": "XP 5698",
-      "fleetnum": "V6L3",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6X Aids",
-      "number": 4,
-      "carplate": "XP 5703",
-      "fleetnum": "V6L4",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6X Aids",
-      "number": 5,
-      "carplate": "XP 6103",
-      "fleetnum": "V6L5",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6X Aids",
-      "number": 6,
-      "carplate": "XP 6305",
-      "fleetnum": "V6L6",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6X Aids",
-      "number": 7,
-      "carplate": "XP 6593",
-      "fleetnum": "V6L7",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6X Aids",
-      "number": 8,
-      "carplate": "XP 6777",
-      "fleetnum": "V6L8",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6X Aids",
-      "number": 9,
-      "carplate": "XP 6721",
-      "fleetnum": "V6L9",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6X Aids",
-      "number": 10,
-      "carplate": "XP 8992",
-      "fleetnum": "V6L10",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6X Aids",
-      "number": 11,
-      "carplate": "XP 8993",
-      "fleetnum": "V6L11",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6X Aids",
-      "number": 12,
-      "carplate": "XP 9053",
-      "fleetnum": "V6L12",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6X Aids",
-      "number": 13,
-      "carplate": "XR 291",
-      "fleetnum": "V6L13",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6X Aids",
-      "number": 14,
-      "carplate": "XR 783",
-      "fleetnum": "V6L14",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "V6X Aids",
-      "number": 15,
-      "carplate": "XR 1101",
-      "fleetnum": "V6L15",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "A95 Open Top",
-      "number": 1,
-      "carplate": "VM 5535",
-      "fleetnum": "M6MO1",
-      "depot": "M",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    }
-  ]
-  }
+   "fleetdata":[
+      {
+         "busname":"TTTE500MMC12000",
+         "number":1,
+         "carplate":"VU 8420",
+         "fleetnum":"E6M1",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12000",
+         "number":2,
+         "carplate":"VU 8803",
+         "fleetnum":"E6M2",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12000",
+         "number":3,
+         "carplate":"VU 9475",
+         "fleetnum":"E6M3",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12000",
+         "number":4,
+         "carplate":"VU 9956",
+         "fleetnum":"E6M4",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12000",
+         "number":5,
+         "carplate":"VX 309",
+         "fleetnum":"E6M5",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12000",
+         "number":6,
+         "carplate":"VX 2874",
+         "fleetnum":"E6M6",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12000",
+         "number":7,
+         "carplate":"VX 2875",
+         "fleetnum":"E6M7",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12000",
+         "number":8,
+         "carplate":"VX 3661",
+         "fleetnum":"E6M8",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12000",
+         "number":9,
+         "carplate":"VX 5659",
+         "fleetnum":"E6M9",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12000",
+         "number":10,
+         "carplate":"VX 6964",
+         "fleetnum":"E6M10",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC120002X",
+         "number":1,
+         "carplate":"VY 7814",
+         "fleetnum":"E6M11",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC120002X",
+         "number":2,
+         "carplate":"VY 8140",
+         "fleetnum":"E6M12",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC120002X",
+         "number":3,
+         "carplate":"VY 8597",
+         "fleetnum":"E6M13",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC120002X",
+         "number":4,
+         "carplate":"VY 8795",
+         "fleetnum":"E6M14",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC120002X",
+         "number":5,
+         "carplate":"VY 9067",
+         "fleetnum":"E6M15",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC120002X",
+         "number":6,
+         "carplate":"VZ 7099",
+         "fleetnum":"E6M16",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC120002X",
+         "number":7,
+         "carplate":"VZ 7269",
+         "fleetnum":"E6M17",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC120002X",
+         "number":8,
+         "carplate":"VZ 7746",
+         "fleetnum":"E6M18",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC120002X",
+         "number":9,
+         "carplate":"VZ 8494",
+         "fleetnum":"E6M19",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC120002X",
+         "number":10,
+         "carplate":"VZ 9697",
+         "fleetnum":"E6M20",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC120002X",
+         "number":11,
+         "carplate":"WA 765",
+         "fleetnum":"E6M21",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC120002X",
+         "number":12,
+         "carplate":"WA 781",
+         "fleetnum":"E6M22",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC120002X",
+         "number":13,
+         "carplate":"WA 851",
+         "fleetnum":"E6M23",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC120002X",
+         "number":14,
+         "carplate":"WA 896",
+         "fleetnum":"E6M24",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC120002X",
+         "number":15,
+         "carplate":"WA 1260",
+         "fleetnum":"E6M25",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC120002X",
+         "number":16,
+         "carplate":"WA 1275",
+         "fleetnum":"E6M26",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC120002X",
+         "number":17,
+         "carplate":"WA 1286",
+         "fleetnum":"E6M27",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC120002X",
+         "number":18,
+         "carplate":"WA 1474",
+         "fleetnum":"E6M28",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC120002X",
+         "number":19,
+         "carplate":"WA 1489",
+         "fleetnum":"E6M29",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC120002X",
+         "number":20,
+         "carplate":"WA 1526",
+         "fleetnum":"E6M30",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC120002X",
+         "number":21,
+         "carplate":"WA 1588",
+         "fleetnum":"E6M31",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC120002X",
+         "number":22,
+         "carplate":"WA 1605",
+         "fleetnum":"E6M32",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC120002X",
+         "number":23,
+         "carplate":"WA 1745",
+         "fleetnum":"E6M33",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC120002X",
+         "number":24,
+         "carplate":"WA 1840",
+         "fleetnum":"E6M34",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC120002X",
+         "number":25,
+         "carplate":"WA 1974",
+         "fleetnum":"E6M35",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800",
+         "number":1,
+         "carplate":"VZ 6519",
+         "fleetnum":"E6L1",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800",
+         "number":2,
+         "carplate":"WA 1533",
+         "fleetnum":"E6L2",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800",
+         "number":3,
+         "carplate":"WA 1609",
+         "fleetnum":"E6L3",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800",
+         "number":4,
+         "carplate":"WA 1723",
+         "fleetnum":"E6L4",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800",
+         "number":5,
+         "carplate":"WA 1944",
+         "fleetnum":"E6L5",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800",
+         "number":6,
+         "carplate":"WA 2134",
+         "fleetnum":"E6L6",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800",
+         "number":7,
+         "carplate":"WA 2257",
+         "fleetnum":"E6L7",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800",
+         "number":8,
+         "carplate":"WA 2366",
+         "fleetnum":"E6L8",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800",
+         "number":9,
+         "carplate":"WA 2495",
+         "fleetnum":"E6L9",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800",
+         "number":10,
+         "carplate":"WA 2899",
+         "fleetnum":"E6L10",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800",
+         "number":11,
+         "carplate":"WA 2993",
+         "fleetnum":"E6L11",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800",
+         "number":12,
+         "carplate":"WA 3024",
+         "fleetnum":"E6L12",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":1,
+         "carplate":"YA 3258",
+         "fleetnum":"E6L13",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":2,
+         "carplate":"YB 342",
+         "fleetnum":"E6L14",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":3,
+         "carplate":"YB 366",
+         "fleetnum":"E6L15",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":4,
+         "carplate":"YC 8714",
+         "fleetnum":"E6L16",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":5,
+         "carplate":"YC 8906",
+         "fleetnum":"E6L17",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":6,
+         "carplate":"YC 9172",
+         "fleetnum":"E6L18",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":7,
+         "carplate":"YC 9588",
+         "fleetnum":"E6L19",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":8,
+         "carplate":"YC 9623",
+         "fleetnum":"E6L20",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":9,
+         "carplate":"YD 502",
+         "fleetnum":"E6L21",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":10,
+         "carplate":"YD 1230",
+         "fleetnum":"E6L22",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":11,
+         "carplate":"YD 1784",
+         "fleetnum":"E6L23",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":12,
+         "carplate":"YD 2409",
+         "fleetnum":"E6L24",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":13,
+         "carplate":"YD 2444",
+         "fleetnum":"E6L25",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":14,
+         "carplate":"YE 510",
+         "fleetnum":"E6L26",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":15,
+         "carplate":"YE 605",
+         "fleetnum":"E6L27",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":16,
+         "carplate":"YE 645",
+         "fleetnum":"E6L28",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":17,
+         "carplate":"YE 758",
+         "fleetnum":"E6L29",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":18,
+         "carplate":"YE 806",
+         "fleetnum":"E6L30",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":19,
+         "carplate":"YE 1022",
+         "fleetnum":"E6L31",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":20,
+         "carplate":"YE 1228",
+         "fleetnum":"E6L32",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":21,
+         "carplate":"YE 1195",
+         "fleetnum":"E6L33",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":22,
+         "carplate":"YE 1246",
+         "fleetnum":"E6L34",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":23,
+         "carplate":"YE 1251",
+         "fleetnum":"E6L35",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":24,
+         "carplate":"YE 1317",
+         "fleetnum":"E6L36",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":25,
+         "carplate":"YE 5088",
+         "fleetnum":"E6L37",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":26,
+         "carplate":"YE 6239",
+         "fleetnum":"E6L38",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":27,
+         "carplate":"YF 5182",
+         "fleetnum":"E6L39",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":28,
+         "carplate":"YF 5858",
+         "fleetnum":"E6L40",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":29,
+         "carplate":"YF 6064",
+         "fleetnum":"E6L41",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":30,
+         "carplate":"YG 167",
+         "fleetnum":"E6L42",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC12800NG",
+         "number":31,
+         "carplate":"YG 172",
+         "fleetnum":"E6L43",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300",
+         "number":1,
+         "carplate":"WU 7838",
+         "fleetnum":"E6S1",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300",
+         "number":2,
+         "carplate":"WV 9313",
+         "fleetnum":"E6S2",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300",
+         "number":3,
+         "carplate":"WV 2845",
+         "fleetnum":"E6S3",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300",
+         "number":4,
+         "carplate":"WV 3678",
+         "fleetnum":"E6S4",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300",
+         "number":5,
+         "carplate":"WV 3833",
+         "fleetnum":"E6S5",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300",
+         "number":6,
+         "carplate":"WV 6049",
+         "fleetnum":"E6S6",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300",
+         "number":7,
+         "carplate":"WW 5242",
+         "fleetnum":"E6S7",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300",
+         "number":8,
+         "carplate":"WW 8269",
+         "fleetnum":"E6S8",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300",
+         "number":9,
+         "carplate":"WW 8914",
+         "fleetnum":"E6S9",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300",
+         "number":10,
+         "carplate":"WW 9041",
+         "fleetnum":"E6S10",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300",
+         "number":11,
+         "carplate":"WZ 6545",
+         "fleetnum":"E6S11",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300",
+         "number":12,
+         "carplate":"XA 6582",
+         "fleetnum":"E6S12",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300",
+         "number":13,
+         "carplate":"XA 7113",
+         "fleetnum":"E6S13",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300",
+         "number":14,
+         "carplate":"XA 7476",
+         "fleetnum":"E6S14",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300",
+         "number":15,
+         "carplate":"XA 7611",
+         "fleetnum":"E6S15",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300",
+         "number":16,
+         "carplate":"XA 7816",
+         "fleetnum":"E6S16",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300",
+         "number":17,
+         "carplate":"XA 7994",
+         "fleetnum":"E6S17",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300",
+         "number":18,
+         "carplate":"XA 8032",
+         "fleetnum":"E6S18",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300",
+         "number":19,
+         "carplate":"XA 9995",
+         "fleetnum":"E6S19",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300",
+         "number":20,
+         "carplate":"XB 714",
+         "fleetnum":"E6S20",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":1,
+         "carplate":"TT 807",
+         "fleetnum":"E6S21",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":2,
+         "carplate":"YC 775",
+         "fleetnum":"E6S22",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":3,
+         "carplate":"YC 1262",
+         "fleetnum":"E6S23",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":4,
+         "carplate":"YC 1439",
+         "fleetnum":"E6S24",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":5,
+         "carplate":"YC 1458",
+         "fleetnum":"E6S25",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":6,
+         "carplate":"YC 1614",
+         "fleetnum":"E6S26",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":7,
+         "carplate":"YC 2117",
+         "fleetnum":"E6S27",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":8,
+         "carplate":"YC 6394",
+         "fleetnum":"E6S28",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":9,
+         "carplate":"YC 7829",
+         "fleetnum":"E6S29",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":10,
+         "carplate":"YC 9321",
+         "fleetnum":"E6S30",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":11,
+         "carplate":"YD 1058",
+         "fleetnum":"E6S31",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":12,
+         "carplate":"YD 1238",
+         "fleetnum":"E6S32",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":13,
+         "carplate":"YD 2509",
+         "fleetnum":"E6S33",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":14,
+         "carplate":"YD 3258",
+         "fleetnum":"E6S34",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":15,
+         "carplate":"YD 7767",
+         "fleetnum":"E6S35",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":16,
+         "carplate":"YD 9201",
+         "fleetnum":"E6S36",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":17,
+         "carplate":"YF 2024",
+         "fleetnum":"E6S37",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":18,
+         "carplate":"YF 2047",
+         "fleetnum":"E6S38",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":19,
+         "carplate":"YF 3060",
+         "fleetnum":"E6S39",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":20,
+         "carplate":"YF 6488",
+         "fleetnum":"E6S40",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":21,
+         "carplate":"YG 227",
+         "fleetnum":"E6S41",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":22,
+         "carplate":"YG 1056",
+         "fleetnum":"E6S42",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":23,
+         "carplate":"YG 2145",
+         "fleetnum":"E6S43",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":24,
+         "carplate":"YG 3257",
+         "fleetnum":"E6S44",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":25,
+         "carplate":"YG 3657",
+         "fleetnum":"E6S45",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":26,
+         "carplate":"YG 4680",
+         "fleetnum":"E6S46",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":27,
+         "carplate":"YG 9916",
+         "fleetnum":"E6S47",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":28,
+         "carplate":"YH 342",
+         "fleetnum":"E6S48",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":29,
+         "carplate":"YH 586",
+         "fleetnum":"E6S49",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":30,
+         "carplate":"YH 740",
+         "fleetnum":"E6S50",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":31,
+         "carplate":"YH 916",
+         "fleetnum":"E6S51",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":32,
+         "carplate":"YH 1442",
+         "fleetnum":"E6S52",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":33,
+         "carplate":"YH 2123",
+         "fleetnum":"E6S53",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":34,
+         "carplate":"YH 2132",
+         "fleetnum":"E6S54",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":35,
+         "carplate":"YH 2214",
+         "fleetnum":"E6S55",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":36,
+         "carplate":"YH 8579",
+         "fleetnum":"E6S56",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":37,
+         "carplate":"YH 9636",
+         "fleetnum":"E6S57",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":38,
+         "carplate":"YH 9968",
+         "fleetnum":"E6S58",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":39,
+         "carplate":"YJ 530",
+         "fleetnum":"E6S59",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500MMC11300NG",
+         "number":40,
+         "carplate":"YJ 553",
+         "fleetnum":"E6S60",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE40010600",
+         "number":1,
+         "carplate":"RR 4474",
+         "fleetnum":"E5XS1",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE40010600",
+         "number":2,
+         "carplate":"RS 6358",
+         "fleetnum":"E5XS2",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE40010600",
+         "number":3,
+         "carplate":"RS 6489",
+         "fleetnum":"E5XS3",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE40010600",
+         "number":4,
+         "carplate":"RS 6593",
+         "fleetnum":"E5XS4",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE40010600",
+         "number":5,
+         "carplate":"RS 9932",
+         "fleetnum":"E5XS5",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE40010600",
+         "number":6,
+         "carplate":"RT 841",
+         "fleetnum":"E5XS6",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE40010600",
+         "number":7,
+         "carplate":"RT 1398",
+         "fleetnum":"E5XS7",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE40010600",
+         "number":8,
+         "carplate":"RT 7679",
+         "fleetnum":"E5XS8",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE40010600",
+         "number":9,
+         "carplate":"RT 9934",
+         "fleetnum":"E5XS9",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE40010600",
+         "number":10,
+         "carplate":"RU 534",
+         "fleetnum":"E5XS10",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE40010600FL",
+         "number":1,
+         "carplate":"VR 2035",
+         "fleetnum":"E5XS11",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE40010600FL",
+         "number":2,
+         "carplate":"VS 2916",
+         "fleetnum":"E5XS12",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE40010600FL",
+         "number":3,
+         "carplate":"VS 7615",
+         "fleetnum":"E5XS13",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE40010600FL",
+         "number":4,
+         "carplate":"VS 7682",
+         "fleetnum":"E5XS14",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE40010600FL",
+         "number":5,
+         "carplate":"VS 7713",
+         "fleetnum":"E5XS15",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE40010600FL",
+         "number":6,
+         "carplate":"VS 8462",
+         "fleetnum":"E5XS16",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE40010600FL",
+         "number":7,
+         "carplate":"VT 4759",
+         "fleetnum":"E5XS17",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE40010600FL",
+         "number":8,
+         "carplate":"VT 4842",
+         "fleetnum":"E5XS18",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE40010600FL",
+         "number":9,
+         "carplate":"VT 5902",
+         "fleetnum":"E5XS19",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE40010600FL",
+         "number":10,
+         "carplate":"VT 6470",
+         "fleetnum":"E5XS20",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE40010600FL",
+         "number":11,
+         "carplate":"VU 6847",
+         "fleetnum":"E5XS21",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE40010600FL",
+         "number":12,
+         "carplate":"VU 7277",
+         "fleetnum":"E5XS22",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE40010600FL",
+         "number":13,
+         "carplate":"VU 7411",
+         "fleetnum":"E5XS23",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE40010600FL",
+         "number":14,
+         "carplate":"VU 7426",
+         "fleetnum":"E5XS24",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE40010600FL",
+         "number":15,
+         "carplate":"VU 7966",
+         "fleetnum":"E5XS25",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500E4",
+         "number":1,
+         "carplate":"NG 8415",
+         "fleetnum":"D4M",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500E4",
+         "number":2,
+         "carplate":"NG 9777",
+         "fleetnum":"D4M2",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500E4",
+         "number":3,
+         "carplate":"NH 2071",
+         "fleetnum":"D4M3",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500E4",
+         "number":4,
+         "carplate":"NH 2785",
+         "fleetnum":"D4M4",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500E4",
+         "number":5,
+         "carplate":"NH 4435",
+         "fleetnum":"D4M5",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500E5",
+         "number":1,
+         "carplate":"PZ 6862",
+         "fleetnum":"D5M1",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500E5",
+         "number":2,
+         "carplate":"PZ 9885",
+         "fleetnum":"D5M2",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500E5",
+         "number":3,
+         "carplate":"RA 1131",
+         "fleetnum":"D5M3",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500E5",
+         "number":4,
+         "carplate":"RA 1311",
+         "fleetnum":"D5M4",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500E5",
+         "number":5,
+         "carplate":"RA 1467",
+         "fleetnum":"D5M5",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500E5",
+         "number":6,
+         "carplate":"RB 221",
+         "fleetnum":"D5M6",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500E5",
+         "number":7,
+         "carplate":"RB 5009",
+         "fleetnum":"D5M7",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500E5",
+         "number":8,
+         "carplate":"RB 6661",
+         "fleetnum":"D5M8",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500E5",
+         "number":9,
+         "carplate":"RC 7361",
+         "fleetnum":"D5M9",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500E5",
+         "number":10,
+         "carplate":"RC 7561",
+         "fleetnum":"D5M10",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500E5T",
+         "number":1,
+         "carplate":"RS 6377",
+         "fleetnum":"D5M11",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500E5T",
+         "number":2,
+         "carplate":"RS 6682",
+         "fleetnum":"D5M12",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500E5T",
+         "number":3,
+         "carplate":"RS 7579",
+         "fleetnum":"D5M13",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500E5T",
+         "number":4,
+         "carplate":"RS 9268",
+         "fleetnum":"D5M14",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500E5T",
+         "number":5,
+         "carplate":"RU 8594",
+         "fleetnum":"D5M15",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500E5T",
+         "number":6,
+         "carplate":"RU 9050",
+         "fleetnum":"D5M16",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500E5T",
+         "number":7,
+         "carplate":"RU 9316",
+         "fleetnum":"D5M17",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500E5T",
+         "number":8,
+         "carplate":"RU 9604",
+         "fleetnum":"D5M18",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500E5T",
+         "number":9,
+         "carplate":"RU 9812",
+         "fleetnum":"D5M19",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTE500E5T",
+         "number":10,
+         "carplate":"RU 9974",
+         "fleetnum":"D5M20",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TLE3A",
+         "number":1,
+         "carplate":"MX 3604",
+         "fleetnum":"V3M1",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TLE3A",
+         "number":2,
+         "carplate":"MX 3756",
+         "fleetnum":"V3M2",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TLE3A",
+         "number":3,
+         "carplate":"MY 2775",
+         "fleetnum":"V3M3",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TLE3A",
+         "number":4,
+         "carplate":"MY 4161",
+         "fleetnum":"V3M4",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TLE3A",
+         "number":5,
+         "carplate":"MZ 3022",
+         "fleetnum":"V3M5",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL11300",
+         "number":1,
+         "carplate":"VA 431",
+         "fleetnum":"V5S1",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL11300",
+         "number":2,
+         "carplate":"VA 431",
+         "fleetnum":"V5S2",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL11300",
+         "number":3,
+         "carplate":"VA 811",
+         "fleetnum":"V5S3",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL11300",
+         "number":4,
+         "carplate":"VA 1142",
+         "fleetnum":"V5S4",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL11300",
+         "number":5,
+         "carplate":"VB 2328",
+         "fleetnum":"V5S5",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL11300",
+         "number":6,
+         "carplate":"VB 3713",
+         "fleetnum":"V5S6",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL11300",
+         "number":7,
+         "carplate":"VB 4426",
+         "fleetnum":"V5S7",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL11300",
+         "number":8,
+         "carplate":"VB 7819",
+         "fleetnum":"V5S8",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL11300",
+         "number":9,
+         "carplate":"VB 8126",
+         "fleetnum":"V5S9",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL11300",
+         "number":10,
+         "carplate":"VC 608",
+         "fleetnum":"V5S10",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL11300",
+         "number":11,
+         "carplate":"VC 1638",
+         "fleetnum":"V5S11",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL11300",
+         "number":12,
+         "carplate":"VC 731",
+         "fleetnum":"V5S12",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL11300",
+         "number":13,
+         "carplate":"VC 806",
+         "fleetnum":"V5S13",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL11300",
+         "number":14,
+         "carplate":"VC 821",
+         "fleetnum":"V5S14",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL11300",
+         "number":15,
+         "carplate":"VC 3042",
+         "fleetnum":"V5S15",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL12000",
+         "number":1,
+         "carplate":"UX 2607",
+         "fleetnum":"V5M1",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL12000",
+         "number":2,
+         "carplate":"UX 3493",
+         "fleetnum":"V5M2",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL12000",
+         "number":3,
+         "carplate":"UX 3693",
+         "fleetnum":"V5M3",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL12000",
+         "number":4,
+         "carplate":"UX 4968",
+         "fleetnum":"V5M4",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL12000",
+         "number":5,
+         "carplate":"UX 5045",
+         "fleetnum":"V5M5",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL12000",
+         "number":6,
+         "carplate":"UX 4860",
+         "fleetnum":"V5M6",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL12000",
+         "number":7,
+         "carplate":"UX 6673",
+         "fleetnum":"V5M7",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL12000",
+         "number":8,
+         "carplate":"UX 8235",
+         "fleetnum":"V5M8",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL12000",
+         "number":9,
+         "carplate":"UX 9848",
+         "fleetnum":"V5M9",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL12000",
+         "number":10,
+         "carplate":"UX 9990",
+         "fleetnum":"V5M10",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL12000",
+         "number":11,
+         "carplate":"UY 431",
+         "fleetnum":"V5M11",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL12000",
+         "number":12,
+         "carplate":"UY 1189",
+         "fleetnum":"V5M12",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL12000",
+         "number":13,
+         "carplate":"UY 6682",
+         "fleetnum":"V5M13",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL12000",
+         "number":14,
+         "carplate":"UY 6720",
+         "fleetnum":"V5M14",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL12000",
+         "number":15,
+         "carplate":"UY 8095",
+         "fleetnum":"V5M15",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL12000",
+         "number":16,
+         "carplate":"UY 8229",
+         "fleetnum":"V5M16",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL12000",
+         "number":17,
+         "carplate":"UZ 1659",
+         "fleetnum":"V5M17",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL12000",
+         "number":18,
+         "carplate":"UZ 1729",
+         "fleetnum":"V5M18",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL12000",
+         "number":19,
+         "carplate":"UZ 3485",
+         "fleetnum":"V5M19",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL12000",
+         "number":20,
+         "carplate":"UZ 2984",
+         "fleetnum":"V5M20",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL12800",
+         "number":1,
+         "carplate":"UU 2761",
+         "fleetnum":"V5L1",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB9TL12800",
+         "number":2,
+         "carplate":"UU 2078",
+         "fleetnum":"V5L2",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB8L12000W2",
+         "number":1,
+         "carplate":"VH 744",
+         "fleetnum":"V6M1",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB8L12000W2",
+         "number":2,
+         "carplate":"VJ 1711",
+         "fleetnum":"V6M2",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB8L12800W2",
+         "number":1,
+         "carplate":"VN 9010",
+         "fleetnum":"V6L1",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      },
+      {
+         "busname":"TTTB8L12800W2",
+         "number":2,
+         "carplate":"VN 9690",
+         "fleetnum":"V6L2",
+         "depot":"A",
+         "leftad":"rbxassetid://",
+         "rightad":"rbxassetid://",
+         "backad":"rbxassetid://"
+      }
+   ]
+}
