@@ -303,9 +303,13 @@
     "maxPZ": "1",
     "priceZ1": "32.7",
     "halfpriceZ1": "16.4",
+    "priceZ2": "8.8",
+    "halfpriceZ2": "4.4"
     "maxPY": "1",
-    "priceY1": "8.8",
-    "halfpriceY1": "4.4"
+    "priceY1": "32.7",
+    "halfpriceY1": "16.4",
+    "priceY2": "8.8",
+    "halfpriceY2": "4.4"
   },
   {
     "number": 16,
