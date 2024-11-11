@@ -350,7 +350,7 @@
   {
     "number": 18,
     "route": "55",
-    "attribute": "normal",
+    "attribute": "circular",
     "pigYZ": "",
     "destZ": "半島轉車站",
     "engdestZ": "Peninsula Interchange",
@@ -386,7 +386,7 @@
   {
     "number": 20,
     "route": "57",
-    "attribute": "normal",
+    "attribute": "circular",
     "pigYZ": "",
     "destZ": "伊利沙伯西區醫院",
     "engdestZ": "Elizabeth Western Hospital",
