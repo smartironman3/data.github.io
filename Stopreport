@@ -404,7 +404,7 @@
   },
   {
     "route": "36",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 1,
     "Chi": "歡迎乘搭廁所運輸",
     "ChiTime": 5,
@@ -416,7 +416,7 @@
   },
   {
     "route": "36",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 2,
     "Chi": "歡迎乘搭廁所運輸",
     "ChiTime": 8.5,
@@ -428,7 +428,7 @@
   },
   {
     "route": "36",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 3,
     "Chi": "巴膠花園站",
     "ChiTime": 2.5,
@@ -440,7 +440,7 @@
   },
   {
     "route": "36",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 4,
     "Chi": "山莊豪園四座",
     "ChiTime": 2.25,
@@ -452,7 +452,7 @@
   },
   {
     "route": "36",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 5,
     "Chi": "嘉斯夫北村",
     "ChiTime": 2.25,
@@ -464,7 +464,7 @@
   },
   {
     "route": "36",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 6,
     "Chi": "橋下運動場",
     "ChiTime": 2.25,
@@ -476,7 +476,7 @@
   },
   {
     "route": "36",
-    "direction": 0,
+    "direction": 1
     "NextStop": 7,
     "Chi": "嘉禾閣第二期",
     "ChiTime": 2.25,
@@ -488,7 +488,7 @@
   },
   {
     "route": "36",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 8,
     "Chi": "嘉禾閣第三期",
     "ChiTime": 2.25,
@@ -500,7 +500,7 @@
   },
   {
     "route": "36",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 9,
     "Chi": "嘉禾邨",
     "ChiTime": 2.25,
@@ -512,7 +512,7 @@
   },
   {
     "route": "36",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 10,
     "Chi": "伊利沙伯西區醫院",
     "ChiTime": 2.25,
@@ -524,7 +524,7 @@
   },
   {
     "route": "36",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 11,
     "Chi": "伊利沙伯村市場",
     "ChiTime": 2.25,
@@ -536,7 +536,7 @@
   },
   {
     "route": "36",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 12,
     "Chi": "嘉禾閣",
     "ChiTime": 2.25,
